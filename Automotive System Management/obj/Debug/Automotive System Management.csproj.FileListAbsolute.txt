@@ -1,0 +1,43 @@
+C:\Users\marlo\OneDrive\Documents\Database System Project\Automotive System Management\bin\Debug\Automotive System Management.exe
+C:\Users\marlo\OneDrive\Documents\Database System Project\Automotive System Management\bin\Debug\Automotive System Management.exe.config
+C:\Users\marlo\OneDrive\Documents\Database System Project\Automotive System Management\obj\Debug\Automotive System Management.csproj.AssemblyReference.cache
+C:\Users\marlo\OneDrive\Documents\Database System Project\Automotive System Management\obj\Debug\Automotive_System_Management.Login.resources
+C:\Users\marlo\OneDrive\Documents\Database System Project\Automotive System Management\obj\Debug\Automotive_System_Management.Properties.Resources.resources
+C:\Users\marlo\OneDrive\Documents\Database System Project\Automotive System Management\obj\Debug\Automotive System Management.csproj.GenerateResource.cache
+C:\Users\marlo\OneDrive\Documents\Database System Project\Automotive System Management\obj\Debug\Automotive System Management.csproj.CoreCompileInputs.cache
+C:\Users\marlo\OneDrive\Documents\Database System Project\Automotive System Management\obj\Debug\Automotive System Management.exe
+C:\Users\marlo\OneDrive\Documents\Database System Project\Automotive System Management\obj\Debug\Automotive System Management.pdb
+C:\Users\marlo\OneDrive\Documents\Database System Project\Automotive System Management\bin\Debug\Automotive System Management.pdb
+C:\Users\marlo\OneDrive\Documents\Database System Project\Automotive System Management\obj\Debug\Automotive_System_Management.Signup.resources
+C:\Users\marlo\Downloads\Database System Project - Copy\Automotive System Management\obj\Debug\Automotive System Management.csproj.AssemblyReference.cache
+C:\Users\marlo\Downloads\Database System Project - Copy\Automotive System Management\obj\Debug\Automotive_System_Management.categoriesmanagement.resources
+C:\Users\marlo\Downloads\Database System Project - Copy\Automotive System Management\obj\Debug\Automotive_System_Management.billing.resources
+C:\Users\marlo\Downloads\Database System Project - Copy\Automotive System Management\obj\Debug\Automotive_System_Management.salesreport.resources
+C:\Users\marlo\Downloads\Database System Project - Copy\Automotive System Management\obj\Debug\Automotive_System_Management.itemsmanagement.resources
+C:\Users\marlo\Downloads\Database System Project - Copy\Automotive System Management\obj\Debug\Automotive_System_Management.Signup.resources
+C:\Users\marlo\Downloads\Database System Project - Copy\Automotive System Management\obj\Debug\Automotive_System_Management.Login.resources
+C:\Users\marlo\Downloads\Database System Project - Copy\Automotive System Management\obj\Debug\Automotive_System_Management.Properties.Resources.resources
+C:\Users\marlo\Downloads\Database System Project - Copy\Automotive System Management\obj\Debug\Automotive System Management.csproj.GenerateResource.cache
+C:\Users\marlo\Downloads\Database System Project - Copy\Automotive System Management\obj\Debug\Automotive System Management.csproj.CoreCompileInputs.cache
+C:\Users\marlo\Downloads\Database System Project - Copy\Automotive System Management\bin\Debug\Automotive System Management.exe.config
+C:\Users\marlo\Downloads\Database System Project - Copy\Automotive System Management\bin\Debug\Automotive System Management.exe
+C:\Users\marlo\Downloads\Database System Project - Copy\Automotive System Management\bin\Debug\Automotive System Management.pdb
+C:\Users\marlo\Downloads\Database System Project - Copy\Automotive System Management\obj\Debug\Automotive System Management.exe
+C:\Users\marlo\Downloads\Database System Project - Copy\Automotive System Management\obj\Debug\Automotive System Management.pdb
+C:\Users\marlo\Downloads\Database System Project\Automotive System Management\bin\Debug\Automotive System Management.exe.config
+C:\Users\marlo\Downloads\Database System Project\Automotive System Management\bin\Debug\Automotive System Management.exe
+C:\Users\marlo\Downloads\Database System Project\Automotive System Management\bin\Debug\Automotive System Management.pdb
+C:\Users\marlo\Downloads\Database System Project\Automotive System Management\obj\Debug\Automotive System Management.csproj.AssemblyReference.cache
+C:\Users\marlo\Downloads\Database System Project\Automotive System Management\obj\Debug\Automotive_System_Management.Controls.salesreport.resources
+C:\Users\marlo\Downloads\Database System Project\Automotive System Management\obj\Debug\Automotive_System_Management.Controls.searchfilter.resources
+C:\Users\marlo\Downloads\Database System Project\Automotive System Management\obj\Debug\Automotive_System_Management.Controls.itemsmanagement.resources
+C:\Users\marlo\Downloads\Database System Project\Automotive System Management\obj\Debug\Automotive_System_Management.form1.resources
+C:\Users\marlo\Downloads\Database System Project\Automotive System Management\obj\Debug\Automotive_System_Management.Signup.resources
+C:\Users\marlo\Downloads\Database System Project\Automotive System Management\obj\Debug\Automotive_System_Management.Login.resources
+C:\Users\marlo\Downloads\Database System Project\Automotive System Management\obj\Debug\Automotive_System_Management.Properties.Resources.resources
+C:\Users\marlo\Downloads\Database System Project\Automotive System Management\obj\Debug\Automotive System Management.csproj.GenerateResource.cache
+C:\Users\marlo\Downloads\Database System Project\Automotive System Management\obj\Debug\Automotive System Management.csproj.CoreCompileInputs.cache
+C:\Users\marlo\Downloads\Database System Project\Automotive System Management\obj\Debug\Automotive System Management.exe
+C:\Users\marlo\Downloads\Database System Project\Automotive System Management\obj\Debug\Automotive System Management.pdb
+C:\Users\marlo\Downloads\Database System Project\Automotive System Management\obj\Debug\Automotive_System_Management.Controls.recordsale.resources
+C:\Users\marlo\Downloads\Database System Project\Automotive System Management\obj\Debug\Automotive_System_Management.Forgotpass.resources
